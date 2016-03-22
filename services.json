@@ -1,0 +1,23 @@
+[
+ {
+   "id": 1,
+   "name":"Hardware Repair",
+   "description":"orem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tincidunt feugiat ultricies. Aenean vitae dapibus leo. Etiam nec mollis diam. Proin consectetur risus vitae velit laoreet, eu consectetur diam porttitor. Suspendisse euismod sem vitae nibh ullamcorper, nec faucibus dui tincidunt. Integer sollicitudin ex vitae congue facilisis. Fusce rhoncus mauris sed risus molestie vestibulum",
+   "image":"computer-icon.png"
+ },
+ 
+ {
+   "id": 2,
+   "name":"Virus Removal",
+   "description": "orem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tincidunt feugiat ultricies. Aenean vitae dapibus leo. Etiam nec mollis diam. Proin consectetur risus vitae velit laoreet, eu consectetur diam porttitor. Suspendisse euismod sem vitae nibh ullamcorper, nec faucibus dui tincidunt. Integer sollicitudin ex vitae congue facilisis. Fusce rhoncus mauris sed risus molestie vestibulum",
+   "image":"computer-icon.png"
+ },
+ 
+ {
+   "id": 3,
+   "name":"Windows Installation",
+   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tincidunt feugiat ultricies. Aenean vitae dapibus leo. Etiam nec mollis diam. Proin consectetur risus vitae velit laoreet, eu consectetur diam porttitor. Suspendisse euismod sem vitae nibh ullamcorper, nec faucibus dui tincidunt. Integer sollicitudin ex vitae congue facilisis. Fusce rhoncus mauris sed risus molestie vestibulum",
+   "image":"computer-icon.png"
+ }
+
+]

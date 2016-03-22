@@ -1,0 +1,32 @@
+[
+ {
+   "id":1,
+   "name":"Lynn Location",
+   "street":"walnut street",
+   "city":"Lynn",
+   "zip":"95127",
+   "phone":"6692345678"
+   },
+   
+   {
+   "id":2,
+   "name":"Ams Location",
+   "street":"walnut street",
+   "city":"Amsterdam",
+   "zip":"95124",
+   "phone":"6692356568"
+   },
+   
+   {
+   "id":3,
+   "name":"London Location",
+   "street":"walnut street",
+   "city":"England",
+   "zip":"95125",
+   "phone":"6692345612"
+   }
+
+
+
+
+]

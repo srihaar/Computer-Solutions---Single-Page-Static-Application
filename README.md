@@ -2,6 +2,8 @@
 
 this is a simple static, single page angular js app
 
+Developed using HTML, Bootstrap, Angular JS
+
 ngRoute is used to make it as single page app
 
 data in services and contact pages are taken from json files dynamically
